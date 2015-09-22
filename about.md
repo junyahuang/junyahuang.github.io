@@ -7,7 +7,7 @@ header-img: "img/green.jpg"
 
 
 <center>
-    <p><img src="http://7xlfkx.com1.z0.glb.clouddn.com/white2.jpg" align="center"></p>
+    <p><img src="http://7xlzhh.com1.z0.glb.clouddn.com/ChinaSnow%20white.png"></p>
 </center>
 
 我是黄俊雅，不明觉厉的伪文青理科生
@@ -50,7 +50,7 @@ header-img: "img/green.jpg"
 
 
 <center>
-    <p><img src="http://i173.photobucket.com/albums/w63/cnfeat/2015-08-29-2_zpsqj7po8eo.png" align="center"></p>
+    <p><img src="http://http://7xlzhh.com1.z0.glb.clouddn.com/微信.jpg" align="center"></p>
 </center>
 
 
