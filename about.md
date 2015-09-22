@@ -26,7 +26,7 @@ header-img: "img/green.jpg"
 ###关注：
 
 
-- [元认知](http://www.mesule.com/)
+- [元认知](http://cnfeat.com/)
 - 写作
 - Python
 - [阳志平](http://www.yangzhiping.com/)
@@ -44,7 +44,7 @@ header-img: "img/green.jpg"
 
 ###联系
 
-- [博客：www.cnfeat.com](www.cnfeat.com)
+- [博客：sinhya.com](sinhya.com)
 
 - [微博@CnFeat](http://weibo.com/207775270)
 
