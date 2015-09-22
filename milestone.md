@@ -1,7 +1,7 @@
 ---
 layout: page
-title: "milestone"
-description: "知之真切笃实处即是行，行之明觉精察处即是知 "
+title: "Milestone"
+description: "Less is more "
 header-img: "img/zhihu.jpg"
 ---
 
@@ -13,7 +13,8 @@ header-img: "img/zhihu.jpg"
 
 ###重要纪事
 
-- 9-18 2015 创建博客
+- 9-21 2015 创建博客
+- 9-22 2015 初步完成博客私人化
 
 
 
