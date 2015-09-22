@@ -10,18 +10,18 @@ url: "http://sinhya"
 owner: 
   name: " Sinhya"
   email: Smaite96@gmail.com
-  bio: "写就是写的报酬"
+  bio: ""
 
 # Data
 gavatar: http://dreamofbook.qiniudn.com/Az..png
 favicon: img/favicon.png
 
 douban_username:  junya
-twitter_username: feat
-github_username: cnfeat
+twitter_username: JunYa_Huang
+github_username: junyahuang
 facebook_username: 
 weibo_username: cnfeat 
-zhihu_username: feat
+zhihu_username: yan-jiu-sheng-9
 
 # Build settings  
 # use Github Flavored Markdown !important  
@@ -51,9 +51,9 @@ defaults:
 comments :
   provider : duoshuo
   duoshuo :
-    short_name : cnfeat
+    short_name : sinhya
   disqus :
-      short_name : cnfeat
+      short_name : sinhya
 
 # Analytics and webmaster tools stuff goes here
 google_analytics: 
