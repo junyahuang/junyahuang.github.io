@@ -26,15 +26,15 @@ header-img: "img/green.jpg"
 ###关注：
 
 
-- [元认知](http://cnfeat.com/)
+- [博客来源](http://cnfeat.com/)
 - 写作
-- Python
 
 
 
 
 
-###代表作：
+
+
 
 
 
@@ -52,6 +52,8 @@ header-img: "img/green.jpg"
 <center>
     <p><img src="http://7xlzhh.com1.z0.glb.clouddn.com/WeChat.jpg" align="center"></p>
 </center>
+
+
 
 
 
