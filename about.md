@@ -50,7 +50,7 @@ header-img: "img/green.jpg"
 
 
 <center>
-    <p><img src="http://7xlzhh.com1.z0.glb.clouddn.com/wechat.jpg" align="center"></p>
+    <p><img src="http://7xlzhh.com1.z0.glb.clouddn.com/WeChat.jpg" align="center"></p>
 </center>
 
 
