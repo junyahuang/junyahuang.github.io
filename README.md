@@ -2,7 +2,7 @@
 
 此博客 fork 自 [Azeril](http://azeril.me/)，感谢。
 
-##读立写生
+##我心足以造鬼
 
 我是陈素封，博客：[cnfeat.com](cnfeat.com)
 
