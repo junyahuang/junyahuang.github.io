@@ -1,22 +1,22 @@
 # Site settings
-title: 读立写生
+title: 我心足以造鬼
 header-img: "img/facebook.jpg"
 tagline: "cn"  
-description: "陈素封|读而立·写而生"  
+description: "黄俊雅|读而立·写而生"
 baseurl: ""
 url: "http://cnfeat"  
 
 # About/contact
 owner: 
-  name: " CnFeat"
-  email: CnFeat@gmail.com
+  name: " Sinhya"
+  email: Smaite96@gmail.com
   bio: "写就是写的报酬"
 
 # Data
 gavatar: http://dreamofbook.qiniudn.com/Az..png
 favicon: img/favicon.png
 
-douban_username:  cnfeat
+douban_username:  junya
 twitter_username: feat
 github_username: cnfeat
 facebook_username: 
