@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Archive"
+title: "Brain"
 description: "逐渐扩张的脑洞"
 header-img: "img/orange.jpg"
 ---
@@ -19,3 +19,5 @@ header-img: "img/orange.jpg"
   </li>
 {% endfor %}
 </ul>
+
+

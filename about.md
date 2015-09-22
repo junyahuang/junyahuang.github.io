@@ -1,7 +1,7 @@
 ---
 layout: page
-title: "About"
-description: "学苟知本，六经皆我注脚 "
+title: "Myself"
+description: "学苟知本，六经皆我注脚"
 header-img: "img/green.jpg"
 ---
 
@@ -29,8 +29,7 @@ header-img: "img/green.jpg"
 - [元认知](http://cnfeat.com/)
 - 写作
 - Python
-- [阳志平](http://www.yangzhiping.com/)
-- [ZoomQuiet](http://blog.zoomquiet.io/)
+
 
 
 
@@ -46,18 +45,15 @@ header-img: "img/green.jpg"
 
 - [博客：sinhya.com](sinhya.com)
 
-- [微博@CnFeat](http://weibo.com/207775270)
-
-- [知乎@陈素封](http://www.zhihu.com/people/Feat)
-
-- [知乎专栏](http://zhuanlan.zhihu.com/cnfeat)
-
-- 公众号：cnfeat
+- 微信 HuangC9
+- 
 
 
 <center>
     <p><img src="http://i173.photobucket.com/albums/w63/cnfeat/2015-08-29-2_zpsqj7po8eo.png" align="center"></p>
 </center>
+
+
 
 
 
