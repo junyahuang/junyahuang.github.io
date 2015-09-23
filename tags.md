@@ -11,6 +11,7 @@ header-img: "img/semantic.jpg"
 2. 点击它
 3. 相关的文章会「唰」地一声跳到页面顶端
 4. 马上试试？
+5. 哦，现在什么文章也没有，所以就放我说了不好笑的笑话
 
 ##基因列表
 
@@ -44,3 +45,5 @@ $(function () {
     $('#tag_cloud a').tagcloud();
 });
 </script>
+
+
