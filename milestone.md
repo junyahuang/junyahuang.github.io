@@ -2,7 +2,7 @@
 layout: page
 title: "Milestone"
 description: "Less is more "
-header-img: "img/zhihu.jpg"
+header-img: "img/headline5.jpg"
 ---
 
 
@@ -15,7 +15,8 @@ header-img: "img/zhihu.jpg"
 
 - 9-21 2015 创建博客
 - 9-22 2015 设计个人图标
-- 9-23 2015 初步实现博客私人化
+- 9-23 2015 初步实现博客内容私人化
+- 9-24 2015 全部更换页面图片
 
 
 

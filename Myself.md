@@ -2,7 +2,7 @@
 layout: page
 title: "Myself"
 description: "学苟知本，六经皆我注脚"
-header-img: "img/green.jpg"
+header-img: "img/headline8.jpg"
 ---
 
 
@@ -40,6 +40,7 @@ header-img: "img/green.jpg"
 - [博客来源](http://cnfeat.com/)
 
 - [同龄导师](http://dandyweng.com/)
+- 
 - [博客学习](http://www.dreamingo.com/)
 
 
@@ -64,6 +65,8 @@ header-img: "img/green.jpg"
 <center>
     <p><img src="http://7xlzhh.com1.z0.glb.clouddn.com/WeChat.jpg" align="center"></p>
 </center>
+
+
 
 
 
