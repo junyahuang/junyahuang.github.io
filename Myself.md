@@ -10,9 +10,9 @@ header-img: "img/green.jpg"
     <p><img src="http://7xlzhh.com1.z0.glb.clouddn.com/Read.png"></p>
 </center>
 
-我是黄俊雅，不明觉厉的伪文青理科生
+我是黄俊雅，伪文青伪理科生，
 
-现在是一个 **认真学习的小学生** 。
+现在是一个 **天天向上的小学生，充满矛盾的不明生物** 。
 
 ##喜欢
 
@@ -40,7 +40,7 @@ header-img: "img/green.jpg"
 - [博客来源](http://cnfeat.com/)
 
 - [同龄导师](http://dandyweng.com/)
-
+- [博客学习](http://www.dreamingo.com/)
 
 
 
