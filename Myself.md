@@ -2,7 +2,7 @@
 layout: page
 title: "Myself"
 description: "学苟知本，六经皆我注脚"
-header-img: "img/headline8.jpg"
+header-img: "img/headline6.jpg"
 ---
 
 
