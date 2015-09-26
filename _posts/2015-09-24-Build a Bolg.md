@@ -3,7 +3,7 @@ layout: post
 title: 用最快捷的方式搭建个人博客
 date: 2015-09-24
 categories: blog
-tags: [github,博客]
+tags: [博客]
 description: 利用Github以及Fork大法搭建个人博客
 
 
@@ -60,15 +60,15 @@ description: 利用Github以及Fork大法搭建个人博客
 
 - 首先打开[**godaddy**](https://www.godaddy.com),搜索你想要的域名，SEARCH DOMAIN,如果搜到了可用的，CONTINUES TO CART, 之后会推荐你购买额外服务，无视即可，拉到尾页继续CONTINUES TO CART
 
-图1
+![]http://7xlzhh.com1.z0.glb.clouddn.com/9-24博客1.png
 
-图2
+![]http://7xlzhh.com1.z0.glb.clouddn.com/9-24博客2.png
 
 - 默认为租五年，改为一年或两年即可。proceed to checkout
 
 - ps,此时可以在网上搜索godaddy的优惠码，种类丰富，寻一个填入code区域，有时会优惠不少
 
-图3
+![]http://7xlzhh.com1.z0.glb.clouddn.com/9-24博客3.png
 
 - 新用户则注册，填写资料后注意地区选择CHINA，否则不可使用支付宝支付，注册后使用支付宝付费即可。
 
@@ -169,7 +169,7 @@ github是全球最大的源代码托管平台，提供一个免费的仓库，�
 
 
 
-图6
+
 
 ###测试
 
@@ -240,9 +240,11 @@ Git会根据用户的名字和邮箱来记录提交。GitHub也是用这些信�
 
 - 在你喜欢的博客源github页面处，点击右上角的fork
 
-图1
+![]http://7xlzhh.com1.z0.glb.clouddn.com/9-24博客5.png
 
 - 回到你自己的仓库，将" xxxx.github.io " ，改为"你的用户名.github.io"（例如我的用户名是junyahuang，便改为junyahuang.github.io）
+
+![]http://7xlzhh.com1.z0.glb.clouddn.com/9-24博客4.png
 
 - 此时"你的用户名.github.io"便可以访问了
 
@@ -250,7 +252,7 @@ Git会根据用户的名字和邮箱来记录提交。GitHub也是用这些信�
 
 - 回到之前github的页面，找到"CNAME"文件，将文件中的网址改为你之前申请的域名，这样你的域名就可以连接github pages了（如下图，将我的sinhya.com改为你的域名）
 
-图2
+![]http://7xlzhh.com1.z0.glb.clouddn.com/9-24博客6.png
 
 - 这个博客从此属于你，你可以任意修改
 
@@ -304,6 +306,6 @@ Git会根据用户的名字和邮箱来记录提交。GitHub也是用这些信�
 没错，你没看错，你的博客已经创建完毕了，
 
 
-接下来就是把博客私人化了。
+接下来就是把博客私人化了。关于这个内容我之后有空会补充说明。
 
 
