@@ -2,7 +2,7 @@
 layout: page
 title: "Tags"
 description: "不明觉厉基因库"  
-header-img: "img/HR3.jpg"  
+header-img: "img/HR3.png"  
 ---
 
 ##本页使用方法
