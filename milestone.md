@@ -2,7 +2,7 @@
 layout: page
 title: "Milestone"
 description: "Less is more "
-header-img: "img/headline03.png"
+header-img: "img/Headline03.jpg"
 ---
 
 
