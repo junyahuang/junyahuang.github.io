@@ -2,7 +2,7 @@
 layout: page
 title: "Brain"
 description: "逐渐绽放的脑洞"
-header-img: "img/headline13.jpg"
+header-img: "img/headline02.jpg"
 ---
 
 
