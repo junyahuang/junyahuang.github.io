@@ -23,15 +23,7 @@ facebook_username: JunYa Huang
 weibo_username: smaite 
 zhihu_username: yan-jiu-sheng-9
 
-# Build settings  
-# use Github Flavored Markdown !important  
-# document: http://jekyllrb.com/docs/configuration/#kramdown  
-markdown: kramdown
-highlighter: pygments
-permalink: pretty
-paginate: 8
-exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
-relative_permalinks: true
+
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone: U.S/Delaware
