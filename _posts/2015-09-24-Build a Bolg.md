@@ -5,6 +5,7 @@ date: 2015-09-24
 categories: blog
 tags: [博客]
 description: 利用Github以及Fork大法搭建个人博客
+header-img: "img/headline6.jpg"
 
 
 ---
