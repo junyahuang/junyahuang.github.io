@@ -40,7 +40,7 @@ header-img: "img/headline7.jpg"
 
 ## 后续 
 
-![](http://7xlzhh.com1.z0.glb.clouddn.com/%E9%BB%91%E5%90%8D%E5%8D%95v1.png)
+![](http://7xlzhh.com1.z0.glb.clouddn.com/%E9%BB%91%E5%90%8D%E5%8D%95v1%E5%B1%8F%E5%B9%95%E5%BF%AB%E7%85%A7%202016-04-30%2009.08.14.png)
 
 幸运的是，我通过港服客服邮箱成功解绑了他人的绑定，游戏重回手中，然而这个时候，那位才华横溢的兄弟又开始发表他的看法了。
 
