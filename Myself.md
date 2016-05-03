@@ -34,24 +34,6 @@ header-img: "img/headline5.jpg"
 
 
 
-###关注：
-
-
-- [博客来源](http://cnfeat.com/)
-
-- [同龄导师](http://dandyweng.com/)
-- 
-- [博客学习](http://www.dreamingo.com/)
-
-
-
-
-
-
-
-
-
-
 
 
 ###联系
@@ -60,7 +42,7 @@ header-img: "img/headline5.jpg"
 
 - 微信 HuangC9
 
-
+- [P9](http://d7vg.com/psnid/smaite-hung)
 
 <center>
     <p><img src="http://7xlzhh.com1.z0.glb.clouddn.com/WeChat.jpg" align="center"></p>
