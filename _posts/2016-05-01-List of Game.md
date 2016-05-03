@@ -53,20 +53,20 @@ header-img: "img/headline13.jpg"
 
 **PS4**
 
-|**奥丁领域 里普特拉西尔**|中|[奖杯列表](http://d7vg.com/psngame/7394)|
-|**黑暗之魂3**|中|[奖杯列表](http://d7vg.com/psngame/7897)|
-|**高达破坏者3**|中|[奖杯列表](http://d7vg.com/psngame/9890)|
-|**新次元游戏 海王星V2**|中|[奖杯列表](http://d7vg.com/psngame/9579)|
-|**植物大战僵尸 花园战争2**|中|[奖杯列表](http://d7vg.com/psngame/8488)|
-|**三位一体3**|中|[奖杯列表](http://d7vg.com/psngame/9430)|
-|**权力的游戏**|中|[奖杯列表](http://d7vg.com/psngame/7882)|
-|**我的世界:故事模式**|中|[奖杯列表](http://d7vg.com/psngame/8964)|
-|**1886**|英|[奖杯列表](http://d7vg.com/psngame/6616)|5元/周
-|**神海 HD合集、堡垒**|英|[奖杯列表](http://d7vg.com/psngame/8609)|5元/周
-|**无主之地：传说**|英|[奖杯列表](http://d7vg.com/psngame/7228)|
-|**奇妙人生**|英|[奖杯列表](http://d7vg.com/psngame/7875)|
-|**杀手: GO**|英|[奖杯列表](http://d7vg.com/psngame/10328)|
-|**命运石之门0**|日|[奖杯列表](http://d7vg.com/psngame/9217)|
+|**奥丁领域 里普特拉西尔**|中|[奖杯列表](http://d7vg.com/psngame/7394)|排队5人
+|**黑暗之魂3**|中|[奖杯列表](http://d7vg.com/psngame/7897)|排队2人
+|**高达破坏者3**|中|[奖杯列表](http://d7vg.com/psngame/9890)|排队2人
+|**新次元游戏 海王星V2**|中|[奖杯列表](http://d7vg.com/psngame/9579)|5/6
+|**植物大战僵尸 花园战争2**|中|[奖杯列表](http://d7vg.com/psngame/8488)|5/27
+|**三位一体3**|中|[奖杯列表](http://d7vg.com/psngame/9430)|排队1人
+|**权力的游戏**|中|[奖杯列表](http://d7vg.com/psngame/7882)|5/9
+|**我的世界:故事模式**|中|[奖杯列表](http://d7vg.com/psngame/8964)|5/5
+|**1886**|英|[奖杯列表](http://d7vg.com/psngame/6616)|5/11|5元/周
+|**神海 HD合集、堡垒**|英|[奖杯列表](http://d7vg.com/psngame/8609)|5/8|5元/周
+|**无主之地：传说**|英|[奖杯列表](http://d7vg.com/psngame/7228)|可租
+|**奇妙人生**|英|[奖杯列表](http://d7vg.com/psngame/7875)|5/9
+|**杀手: GO**|英|[奖杯列表](http://d7vg.com/psngame/10328)|5/9
+|**命运石之门0**|日|[奖杯列表](http://d7vg.com/psngame/9217)|排队1人
 
 ---
 
