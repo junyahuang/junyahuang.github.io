@@ -1,10 +1,10 @@
 ---
 layout: post
-title: 游戏出租名单
+title: 游戏出租列表
 date: 2016-05-01
 categories: lease
 tags: 出租
-description: 可租游戏表单
+description: 可租游戏列表
 header-img: "img/headline13.jpg"
 
 
@@ -35,7 +35,9 @@ header-img: "img/headline13.jpg"
 最后的最后的最后，半年里结交了许多朋友，好几十级的大神也好，臭味相投的机油也罢，我虽然没有玩太多的游戏，但是依然在这欢乐的气氛下讨论得很开心，有了好的开头好的过程，希望在这结尾，也能有一个和平的结束。
 
 
+啊，奉上QQ的二维码，这样加的话也比较方便
 
+![](http://7xlzhh.com1.z0.glb.clouddn.com/%E9%BB%91%E5%90%8D%E5%8D%95v1IMG_1292.JPG)
 
 
 ## 黑名单
@@ -44,9 +46,9 @@ header-img: "img/headline13.jpg"
 ----|----|----
 [cy19890912](http://d7vg.com/psnid/cy19890912)|转卖游戏|[博客备份](http://sinhya.com/lease/2016/04/26/Blacklist-v1/)
 
-## 正文
+## 游列
 
-长期出租下载版游戏，**除标注外，10元/周**
+长期出租下载版游戏，**除标注外，10元/周**，押金视情况而定。
 
 ---
 
@@ -71,7 +73,6 @@ header-img: "img/headline13.jpg"
 ---
 
 **PS3**
-
 
 **在这苍穹展翅 CRUISE SIGN**|日|[奖杯列表](http://d7vg.com/psngame/7214) ||
 **回到未来、猴岛传说**|英|[奖杯列表](http://d7vg.com/psngame/2751)|[奖杯列表](http://d7vg.com/psngame/1327)|7元/周
