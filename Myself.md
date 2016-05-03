@@ -14,7 +14,11 @@ header-img: "img/headline5.jpg"
 
 现在是一个 **天天向上的小学生，充满矛盾的不明生物** 。
 
-##喜欢
+
+
+## 喜欢
+
+
 
 - 喜欢学习，喜欢好为人师而不知
 
@@ -36,7 +40,7 @@ header-img: "img/headline5.jpg"
 
 
 
-###联系
+### 联系
 
 - [博客：sinhya.com](sinhya.com)
 
