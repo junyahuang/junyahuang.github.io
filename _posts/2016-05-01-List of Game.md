@@ -60,13 +60,13 @@ header-img: "img/headline13.jpg"
 |**高达破坏者3**|中|[奖杯列表](http://d7vg.com/psngame/9890)|排队2人
 |**新次元游戏 海王星V2**|中|[奖杯列表](http://d7vg.com/psngame/9579)|可租
 |**植物大战僵尸 花园战争2**|中|[奖杯列表](http://d7vg.com/psngame/8488)|5/27
-|**三位一体3**|中|[奖杯列表](http://d7vg.com/psngame/9430)|排队1人
-|**权力的游戏**|中|[奖杯列表](http://d7vg.com/psngame/7882)|5/9
+|**三位一体3**|中|[奖杯列表](http://d7vg.com/psngame/9430)|可租
+|**权力的游戏**|中|[奖杯列表](http://d7vg.com/psngame/7882)|5/12
 |**我的世界:故事模式**|中|[奖杯列表](http://d7vg.com/psngame/8964)|排队2人
-|**1886**|英|[奖杯列表](http://d7vg.com/psngame/6616)|5/11|5元/周
-|**神海 HD合集、堡垒**|英|[奖杯列表](http://d7vg.com/psngame/8609)|5/8|5元/周
+|**1886**|英|[奖杯列表](http://d7vg.com/psngame/6616)|可租|5元/周
+|**神海 HD合集、堡垒**|英|[奖杯列表](http://d7vg.com/psngame/8609)|5/15|5元/周
 |**无主之地：传说**|英|[奖杯列表](http://d7vg.com/psngame/7228)|可租
-|**奇妙人生**|英|[奖杯列表](http://d7vg.com/psngame/7875)|5/9
+|**奇妙人生**|英|[奖杯列表](http://d7vg.com/psngame/7875)|可租
 |**杀手: GO**|英|[奖杯列表](http://d7vg.com/psngame/10328)|可租
 |**命运石之门0**|日|[奖杯列表](http://d7vg.com/psngame/9217)|排队1人
 
