@@ -56,7 +56,7 @@ header-img: "img/headline13.jpg"
 **PS4**
 
 |**奥丁领域 里普特拉西尔**|中|[奖杯列表](http://d7vg.com/psngame/7394)|排队7人
-|**黑暗之魂3**|中|[奖杯列表](http://d7vg.com/psngame/7897)|排队2人
+|**黑暗之魂3**|中|[奖杯列表](http://d7vg.com/psngame/7897)|排队1人
 |**高达破坏者3**|中|[奖杯列表](http://d7vg.com/psngame/9890)|排队2人
 |**新次元游戏 海王星V2**|中|[奖杯列表](http://d7vg.com/psngame/9579)|可租
 |**植物大战僵尸 花园战争2**|中|[奖杯列表](http://d7vg.com/psngame/8488)|5/27
@@ -68,7 +68,7 @@ header-img: "img/headline13.jpg"
 |**无主之地：传说**|英|[奖杯列表](http://d7vg.com/psngame/7228)|可租
 |**奇妙人生**|英|[奖杯列表](http://d7vg.com/psngame/7875)|可租
 |**杀手: GO**|英|[奖杯列表](http://d7vg.com/psngame/10328)|可租
-|**命运石之门0**|日|[奖杯列表](http://d7vg.com/psngame/9217)|排队1人
+|**命运石之门0**|日|[奖杯列表](http://d7vg.com/psngame/9217)|可租
 
 ---
 
