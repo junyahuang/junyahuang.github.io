@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 游戏出租列表（纯游列）
-date: 2016-05-8
+date: 2015-05-01
 categories: lease
 tags: 出租
 description: 可租游戏列表

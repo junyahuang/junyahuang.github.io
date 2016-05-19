@@ -57,7 +57,7 @@ header-img: "img/headline13.jpg"
 |**黑暗之魂3**|中|[奖杯列表](http://d7vg.com/psngame/7897)|排队1人
 |**高达破坏者3**|中|[奖杯列表](http://d7vg.com/psngame/9890)|排队1人
 |**新次元游戏 海王星V2**|中|[奖杯列表](http://d7vg.com/psngame/9579)|可租
-|**植物大战僵尸 花园战争2**|中|[奖杯列表](http://d7vg.com/psngame/8488)|5/27
+|**植物大战僵尸 花园战争2**|中|[奖杯列表](http://d7vg.com/psngame/8488)|可租
 |**三位一体3**|中|[奖杯列表](http://d7vg.com/psngame/9430)|可租
 |**权力的游戏**|中|[奖杯列表](http://d7vg.com/psngame/7882)|可租
 |**我的世界:故事模式**|中|[奖杯列表](http://d7vg.com/psngame/8964)|排队1人
