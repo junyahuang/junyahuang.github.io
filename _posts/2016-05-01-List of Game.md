@@ -60,7 +60,8 @@ header-img: "img/headline13.jpg"
 |**植物大战僵尸 花园战争2**|中|[奖杯列表](http://d7vg.com/psngame/8488)|5/27
 |**三位一体3**|中|[奖杯列表](http://d7vg.com/psngame/9430)|可租
 |**权力的游戏**|中|[奖杯列表](http://d7vg.com/psngame/7882)|可租
-|**我的世界:故事模式**|中|[奖杯列表](http://d7vg.com/psngame/8964)|排队2人
+|**我的世界:故事模式**|中|[奖杯列表](http://d7vg.com/psngame/8964)|排队1人
+|**重力异想世界 重制版**|中|[奖杯列表](http://d7vg.com/psngame/7915)|可租
 |**1886**|英|[奖杯列表](http://d7vg.com/psngame/6616)|可租|5元/周
 |**神海 HD合集、堡垒**|英|[奖杯列表](http://d7vg.com/psngame/8609)|可租|5元/周
 |**无主之地：传说**|英|[奖杯列表](http://d7vg.com/psngame/7228)|可租
