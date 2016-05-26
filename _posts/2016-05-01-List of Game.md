@@ -59,7 +59,7 @@ header-img: "img/headline13.jpg"
 
 |**奥丁领域 里普特拉西尔**|中|[奖杯列表](http://d7vg.com/psngame/7394)|排队5人
 |**黑暗之魂3**|中|[奖杯列表](http://d7vg.com/psngame/7897)|5/30
-|**高达破坏者3**|中|[奖杯列表](http://d7vg.com/psngame/9890)|可租
+|**高达破坏者3**|中|[奖杯列表](http://d7vg.com/psngame/9890)|5/30
 |**新次元游戏 海王星V2**|中|[奖杯列表](http://d7vg.com/psngame/9579)|6/1
 |**植物大战僵尸 花园战争2**|中|[奖杯列表](http://d7vg.com/psngame/8488)|6/8
 |**三位一体3**|中|[奖杯列表](http://d7vg.com/psngame/9430)|5/29
