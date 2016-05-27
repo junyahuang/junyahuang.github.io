@@ -68,9 +68,10 @@ header-img: "img/headline13.jpg"
 |**重力异想世界 重制版**|中|[奖杯列表](http://d7vg.com/psngame/7915)|5/30|5元/周
 |**1886**|英|[奖杯列表](http://d7vg.com/psngame/6616)|可租|5元/周
 |**神海 HD合集、堡垒**|英|[奖杯列表](http://d7vg.com/psngame/8609)|可租|5元/周
-|**无主之地：传说**|英|[奖杯列表](http://d7vg.com/psngame/7228)|6/1
+|**无主之地：传说**|英|[奖杯列表](http://d7vg.com/psngame/7228)|6/3
 |**奇妙人生**|英|[奖杯列表](http://d7vg.com/psngame/7875)|可租
 |**杀手: GO**|英|[奖杯列表](http://d7vg.com/psngame/10328)|可租
+|**行尸走肉、与狼同行**|英|[奖杯列表](http://d7vg.com/psngame/7242)|6/3
 |**命运石之门0**|日|[奖杯列表](http://d7vg.com/psngame/9217)|可租
 
 ---
