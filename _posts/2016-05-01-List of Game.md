@@ -58,14 +58,14 @@ header-img: "img/headline13.jpg"
 **PS4**
 
 |**奥丁领域 里普特拉西尔**|中|[奖杯列表](http://d7vg.com/psngame/7394)|排队5人
-|**黑暗之魂3**|中|[奖杯列表](http://d7vg.com/psngame/7897)|5/30
-|**高达破坏者3**|中|[奖杯列表](http://d7vg.com/psngame/9890)|5/30
-|**新次元游戏 海王星V2**|中|[奖杯列表](http://d7vg.com/psngame/9579)|6/1
+|**黑暗之魂3**|中|[奖杯列表](http://d7vg.com/psngame/7897)|可租
+|**高达破坏者3**|中|[奖杯列表](http://d7vg.com/psngame/9890)|排队1人
+|**新次元游戏 海王星V2**|中|[奖杯列表](http://d7vg.com/psngame/9579)|排队1人
 |**植物大战僵尸 花园战争2**|中|[奖杯列表](http://d7vg.com/psngame/8488)|6/8
 |**三位一体3**|中|[奖杯列表](http://d7vg.com/psngame/9430)|5/29
 |**权力的游戏**|中|[奖杯列表](http://d7vg.com/psngame/7882)|可租
 |**我的世界:故事模式**|中|[奖杯列表](http://d7vg.com/psngame/8964)|6/4
-|**重力异想世界 重制版**|中|[奖杯列表](http://d7vg.com/psngame/7915)|6/4|5元/周
+|**重力异想世界 重制版**|中|[奖杯列表](http://d7vg.com/psngame/7915)|排队1人|5元/周
 |**1886**|英|[奖杯列表](http://d7vg.com/psngame/6616)|可租|5元/周
 |**神海 HD合集、堡垒**|英|[奖杯列表](http://d7vg.com/psngame/8609)|可租|5元/周
 |**无主之地：传说**|英|[奖杯列表](http://d7vg.com/psngame/7228)|6/3
