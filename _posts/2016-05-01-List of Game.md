@@ -81,13 +81,12 @@ header-img: "img/headline13.jpg"
 |**植物大战僵尸 花园战争2**|中|[奖杯列表](http://d7vg.com/psngame/8488)|[淘宝地址](https://item.taobao.com/item.htm?id=532019760034)
 
 ---
-
+|**重力异想世界 重制版**|中|[奖杯列表](http://d7vg.com/psngame/7915)|[淘宝地址](https://item.taobao.com/item.htm?id=532020288384)|5元/周
+|**1886**|英|[奖杯列表](http://d7vg.com/psngame/6616)|[淘宝地址](https://item.taobao.com/item.htm?id=531968207000)|5元/周
+|**神海 HD合集、堡垒**|英|[奖杯列表](http://d7vg.com/psngame/8609)|[淘宝地址](https://item.taobao.com/item.htm?id=531968598270)|5元/周
 |**三位一体3**|中|[奖杯列表](http://d7vg.com/psngame/9430)|[淘宝地址](https://item.taobao.com/item.htm?id=531908715076)
 |**权力的游戏**|中|[奖杯列表](http://d7vg.com/psngame/7882)|[淘宝地址](https://item.taobao.com/item.htm?id=528119779394)
 |**我的世界:故事模式**|中|[奖杯列表](http://d7vg.com/psngame/8964)|[淘宝地址](https://item.taobao.com/item.htm?id=532619449767)
-|**重力异想世界 重制版**|中|[奖杯列表](http://d7vg.com/psngame/7915)|[淘宝地址](https://item.taobao.com/item.htm?id=532020288384)|5元/周
-|**1886**|英|[奖杯列表](http://d7vg.com/psngame/6616)|[淘宝地址](https://item.taobao.com/item.htm?id=531968207000)5元/周
-|**神海 HD合集、堡垒**|英|[奖杯列表](http://d7vg.com/psngame/8609)|[淘宝地址](https://item.taobao.com/item.htm?id=531968598270)5元/周
 |**无主之地：传说**|英|[奖杯列表](http://d7vg.com/psngame/7228)|[淘宝地址](https://item.taobao.com/item.htm?id=528163450884)
 |**奇妙人生**|英|[奖杯列表](http://d7vg.com/psngame/7875)|[淘宝地址](https://item.taobao.com/item.htm?id=528841745811)
 |**杀手: GO**|英|[奖杯列表](http://d7vg.com/psngame/10328)|[淘宝地址](https://item.taobao.com/item.htm?id=531967178122)
