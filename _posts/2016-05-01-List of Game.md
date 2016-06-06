@@ -12,6 +12,12 @@ header-img: "img/headline13.jpg"
 ---
 
 
+##网店地址
+
+
+[**淘宝地址**](https://shop150462286.taobao.com/shop/view_shop.htm?spm=0.0.0.0.j7W4xc&mytmenu=mdianpu&user_number_id=1029812093)
+
+![](http://7xlzhh.com1.z0.glb.clouddn.com/%E6%B8%B8%E5%88%97IMG_13653.PNG)
 
 
 ## 前言
@@ -21,6 +27,8 @@ header-img: "img/headline13.jpg"
 感叹一下自己过去的交易帖，这个交易帖是3月份开的，8000多点击量，回复超过80（超过60的部分会将最初的回复覆盖），虽然有2000多都是最后一个星期点出来的，不过还是挺壮观的。。感谢大家的捧场
 
 仅以此博客作为游戏名单
+
+---
 
 **QQ 371918071**, 欢迎P9用户光顾
 
@@ -36,14 +44,20 @@ header-img: "img/headline13.jpg"
 
 最后的最后的最后，半年里结交了许多朋友，好几十级的大神也好，臭味相投的机油也罢，我虽然没有玩太多的游戏，但是依然在这欢乐的气氛下讨论得很开心，有了好的开头好的过程，希望在这结尾，也能有一个和平的结束。
 
+---
 
-啊，奉上QQ的二维码，这样加的话也比较方便
+##联系方式
 
-![](http://7xlzhh.com1.z0.glb.clouddn.com/%E9%BB%91%E5%90%8D%E5%8D%95v1IMG_1292.JPG)
+奉上QQ的二维码，这样加的话也比较方便
 
-[淘宝地址](https://shop150462286.taobao.com/shop/view_shop.htm?spm=0.0.0.0.j7W4xc&mytmenu=mdianpu&user_number_id=1029812093)
+![](http://7xlzhh.com1.z0.glb.clouddn.com/%E6%B8%B8%E5%88%97%E9%BB%91%E5%90%8D%E5%8D%95v1IMG_1292.JPG)
 
-![](http://7xlzhh.com1.z0.glb.clouddn.com/IMG_1365.PNG)
+###网店地址
+
+
+[**淘宝地址**](https://shop150462286.taobao.com/shop/view_shop.htm?spm=0.0.0.0.j7W4xc&mytmenu=mdianpu&user_number_id=1029812093)
+
+![](http://7xlzhh.com1.z0.glb.clouddn.com/%E6%B8%B8%E5%88%97IMG_13653.PNG)
 
 ## 黑名单
 
