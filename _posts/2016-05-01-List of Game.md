@@ -41,6 +41,9 @@ header-img: "img/headline13.jpg"
 
 ![](http://7xlzhh.com1.z0.glb.clouddn.com/%E9%BB%91%E5%90%8D%E5%8D%95v1IMG_1292.JPG)
 
+[淘宝地址](https://shop150462286.taobao.com/shop/view_shop.htm?spm=0.0.0.0.j7W4xc&mytmenu=mdianpu&user_number_id=1029812093)
+
+![](http://7xlzhh.com1.z0.glb.clouddn.com/IMG_1365.PNG)
 
 ## 黑名单
 
@@ -57,29 +60,33 @@ header-img: "img/headline13.jpg"
 
 **PS4**
 
-|**奥丁领域 里普特拉西尔**|中|[奖杯列表](http://d7vg.com/psngame/7394)|排队5人
-|**黑暗之魂3**|中|[奖杯列表](http://d7vg.com/psngame/7897)|可租
-|**高达破坏者3**|中|[奖杯列表](http://d7vg.com/psngame/9890)|排队1人
-|**新次元游戏 海王星V2**|中|[奖杯列表](http://d7vg.com/psngame/9579)|排队1人
-|**植物大战僵尸 花园战争2**|中|[奖杯列表](http://d7vg.com/psngame/8488)|6/8
-|**三位一体3**|中|[奖杯列表](http://d7vg.com/psngame/9430)|5/29
-|**权力的游戏**|中|[奖杯列表](http://d7vg.com/psngame/7882)|可租
-|**我的世界:故事模式**|中|[奖杯列表](http://d7vg.com/psngame/8964)|6/4
-|**重力异想世界 重制版**|中|[奖杯列表](http://d7vg.com/psngame/7915)|排队1人|5元/周
-|**1886**|英|[奖杯列表](http://d7vg.com/psngame/6616)|可租|5元/周
-|**神海 HD合集、堡垒**|英|[奖杯列表](http://d7vg.com/psngame/8609)|可租|5元/周
-|**无主之地：传说**|英|[奖杯列表](http://d7vg.com/psngame/7228)|6/3
-|**奇妙人生**|英|[奖杯列表](http://d7vg.com/psngame/7875)|6/4
-|**杀手: GO**|英|[奖杯列表](http://d7vg.com/psngame/10328)|可租
-|**行尸走肉、与狼同行**|英|[奖杯列表](http://d7vg.com/psngame/7242)|6/3
-|**命运石之门0**|日|[奖杯列表](http://d7vg.com/psngame/9217)|可租
-|**NUBLA**|英|[奖杯列表](http://d7vg.com/psngame/9990)|可租
+|**奥丁领域 里普特拉西尔**|中|[奖杯列表](http://d7vg.com/psngame/7394)|[淘宝地址](https://item.taobao.com/item.htm?id=531967178122)
+|**黑暗之魂3**|中|[奖杯列表](http://d7vg.com/psngame/7897)|[淘宝地址](https://item.taobao.com/item.htm?id=532594852611)
+|**高达破坏者3**|中|[奖杯列表](http://d7vg.com/psngame/9890)|[淘宝地址](https://item.taobao.com/item.htm?id=532619449767)
+|**新次元游戏 海王星V2**|中|[奖杯列表](http://d7vg.com/psngame/9579)|[淘宝地址](https://item.taobao.com/item.htm?id=532020288384)
+|**植物大战僵尸 花园战争2**|中|[奖杯列表](http://d7vg.com/psngame/8488)|[淘宝地址](https://item.taobao.com/item.htm?id=532225033696)
+|**三位一体3**|中|[奖杯列表](http://d7vg.com/psngame/9430)|[淘宝地址](https://item.taobao.com/item.htm?id=532762452742)
+|**权力的游戏**|中|[奖杯列表](http://d7vg.com/psngame/7882)|[淘宝地址](https://item.taobao.com/item.htm?id=528163450884)
+|**我的世界:故事模式**|中|[奖杯列表](http://d7vg.com/psngame/8964)|[淘宝地址](https://item.taobao.com/item.htm?id=528841745811)
+|**重力异想世界 重制版**|中|[奖杯列表](http://d7vg.com/psngame/7915)|[淘宝地址](https://item.taobao.com/item.htm?id=531909411687)|5元/周
+|**1886**|英|[奖杯列表](http://d7vg.com/psngame/6616)|[淘宝地址](https://item.taobao.com/item.htm?id=528120579244)|5元/周
+|**神海 HD合集、堡垒**|英|[奖杯列表](http://d7vg.com/psngame/8609)|[淘宝地址](https://item.taobao.com/item.htm?id=528120579244)|5元/周
+|**无主之地：传说**|英|[奖杯列表](http://d7vg.com/psngame/7228)|[淘宝地址](https://item.taobao.com/item.htm?id=533144883778)
+|**奇妙人生**|英|[奖杯列表](http://d7vg.com/psngame/7875)|[淘宝地址](https://item.taobao.com/item.htm?id=532019760034)
+|**杀手: GO**|英|[奖杯列表](http://d7vg.com/psngame/10328)|[淘宝地址](https://item.taobao.com/item.htm?id=531908715076)
+|**行尸走肉、与狼同行**|英|[奖杯列表](http://d7vg.com/psngame/7242)|[淘宝地址](https://item.taobao.com/item.htm?id=531968598270)
+|**命运石之门0**|日|[奖杯列表](http://d7vg.com/psngame/9217)|[淘宝地址](https://item.taobao.com/item.htm?id=528119779394)
+|**NUBLA**|英|[奖杯列表](http://d7vg.com/psngame/9990)|[淘宝地址](https://item.taobao.com/item.htm?id=533144883778)
 
 ---
 
 **PS3**
 
-**在这苍穹展翅 CRUISE SIGN**|日|[奖杯列表](http://d7vg.com/psngame/7214) ||
+**在这苍穹展翅 CRUISE SIGN**|日|[奖杯列表](http://d7vg.com/psngame/7214) |[淘宝地址](https://item.taobao.com/item.htm?id=531909675625)
+
+
+
+
 **回到未来、猴岛传说**|英|[奖杯列表](http://d7vg.com/psngame/2751)|[奖杯列表](http://d7vg.com/psngame/1327)|7元/周
 **波斯王子 遗忘之沙**|英|[奖杯列表](http://d7vg.com/psngame/1112)||5元/周
 **未传之书2**|英|[奖杯列表](http://d7vg.com/psngame/8827)||5元/周
