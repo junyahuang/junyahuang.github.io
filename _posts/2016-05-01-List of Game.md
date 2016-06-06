@@ -73,6 +73,7 @@ header-img: "img/headline13.jpg"
 |**杀手: GO**|英|[奖杯列表](http://d7vg.com/psngame/10328)|可租
 |**行尸走肉、与狼同行**|英|[奖杯列表](http://d7vg.com/psngame/7242)|6/3
 |**命运石之门0**|日|[奖杯列表](http://d7vg.com/psngame/9217)|可租
+|**NUBLA**|英|[奖杯列表](http://d7vg.com/psngame/9990)|可租
 
 ---
 
