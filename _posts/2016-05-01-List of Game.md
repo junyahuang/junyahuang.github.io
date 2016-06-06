@@ -12,7 +12,7 @@ header-img: "img/headline13.jpg"
 ---
 
 
-##网店地址
+## 网店地址
 
 
 [**淘宝地址**](https://shop150462286.taobao.com/shop/view_shop.htm?spm=0.0.0.0.j7W4xc&mytmenu=mdianpu&user_number_id=1029812093)
@@ -46,13 +46,13 @@ header-img: "img/headline13.jpg"
 
 ---
 
-##联系方式
+## 联系方式
 
 奉上QQ的二维码，这样加的话也比较方便
 
 ![](http://7xlzhh.com1.z0.glb.clouddn.com/%E6%B8%B8%E5%88%97%E9%BB%91%E5%90%8D%E5%8D%95v1IMG_1292.JPG)
 
-###网店地址
+### 网店地址
 
 
 [**淘宝地址**](https://shop150462286.taobao.com/shop/view_shop.htm?spm=0.0.0.0.j7W4xc&mytmenu=mdianpu&user_number_id=1029812093)
