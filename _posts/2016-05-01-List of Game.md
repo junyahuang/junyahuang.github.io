@@ -78,7 +78,7 @@ header-img: "img/headline13.jpg"
 |**黑暗之魂3**|中|[奖杯列表](http://d7vg.com/psngame/7897)|[淘宝地址](https://item.taobao.com/item.htm?id=532225033696)
 |**高达破坏者3**|中|[奖杯列表](http://d7vg.com/psngame/9890)|[淘宝地址](https://item.taobao.com/item.htm?id=532127300580)
 |**新次元游戏 海王星V2**|中|[奖杯列表](http://d7vg.com/psngame/9579)|[淘宝地址](https://item.taobao.com/item.htm?id=528120579244)
-|**植物大战僵尸 花园战争2**|中|[奖杯列表](http://d7vg.com/psngame/8488)[淘宝地址](https://item.taobao.com/item.htm?id=532019760034)
+|**植物大战僵尸 花园战争2**|中|[奖杯列表](http://d7vg.com/psngame/8488)|[淘宝地址](https://item.taobao.com/item.htm?id=532019760034)
 
 ---
 
