@@ -87,6 +87,7 @@ header-img: "img/headline13.jpg"
 |**高达破坏者3**|中|[奖杯列表](http://d7vg.com/psngame/9890)|[淘宝地址](https://item.taobao.com/item.htm?id=532127300580)
 |**新次元游戏 海王星V2**|中|[奖杯列表](http://d7vg.com/psngame/9579)|[淘宝地址](https://item.taobao.com/item.htm?id=528120579244)
 |**植物大战僵尸 花园战争2**|中|[奖杯列表](http://d7vg.com/psngame/8488)|[淘宝地址](https://item.taobao.com/item.htm?id=532019760034)
+|**孤岛惊魂 野蛮纪源**|中|[奖杯列表](http://d7vg.com/psngame/9687)|[淘宝地址](https://item.taobao.com/item.htm?spm=0.0.0.0.9B7yP3&id=533884081766)
 
 ---
 
