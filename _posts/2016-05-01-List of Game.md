@@ -82,6 +82,7 @@ header-img: "img/headline13.jpg"
 
 **PS4**
 
+|**方根书简**|中|[奖杯列表](http://d7vg.com/psngame/11344)|[淘宝地址](https://item.taobao.com/item.htm?spm=0.0.0.0.jBiCHW&id=534081084285)
 |**奥丁领域 里普特拉西尔**|中|[奖杯列表](http://d7vg.com/psngame/7394)|[淘宝地址](https://item.taobao.com/item.htm?id=532594852611)
 |**黑暗之魂3**|中|[奖杯列表](http://d7vg.com/psngame/7897)|[淘宝地址](https://item.taobao.com/item.htm?id=532225033696)
 |**高达破坏者3**|中|[奖杯列表](http://d7vg.com/psngame/9890)|[淘宝地址](https://item.taobao.com/item.htm?id=532127300580)
