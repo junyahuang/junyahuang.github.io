@@ -110,6 +110,8 @@ header-img: "img/headline13.jpg"
 ---
 
 |**命运石之门0**|日|[奖杯列表](http://d7vg.com/psngame/9217)|[淘宝地址](https://item.taobao.com/item.htm?id=531909675625)|
+|**方根书简**|日|[奖杯列表](http://d7vg.com/psngame/10962)|[淘宝地址](https://item.taobao.com/item.htm?spm=0.0.0.0.Ngvokm&id=534218976333)
+
 
 ---
 
