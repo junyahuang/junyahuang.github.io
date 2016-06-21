@@ -106,6 +106,8 @@ header-img: "img/headline13.jpg"
 
 ---
 
+|**新次元游戏 海王星V2**|英|[奖杯列表](http://d7vg.com/psngame/9488)|[淘宝地址](https://item.taobao.com/item.htm?id=534211035529)|5元/周
+|**欧米伽组曲**|英|[奖杯列表](http://d7vg.com/psngame/8596)[淘宝地址](https://item.taobao.com/item.htm?id=534341168248)|5元/周
 |**1886**|英|[奖杯列表](http://d7vg.com/psngame/6616)|[淘宝地址](https://item.taobao.com/item.htm?id=531968207000)|5元/周
 |**神海 HD合集、堡垒**|英|[奖杯列表](http://d7vg.com/psngame/8609)|[淘宝地址](https://item.taobao.com/item.htm?id=531968598270)|5元/周
 |**无主之地：传说**|英|[奖杯列表](http://d7vg.com/psngame/7228)|[淘宝地址](https://item.taobao.com/item.htm?id=528163450884)|
@@ -113,7 +115,8 @@ header-img: "img/headline13.jpg"
 |**杀手: GO**|英|[奖杯列表](http://d7vg.com/psngame/10328)|[淘宝地址](https://item.taobao.com/item.htm?id=531967178122)|
 |**行尸走肉、与狼同行**|英|[奖杯列表](http://d7vg.com/psngame/7242)|[淘宝地址](https://item.taobao.com/item.htm?id=532762452742)|
 |**NUBLA**|英|[奖杯列表](http://d7vg.com/psngame/9990)|[淘宝地址](https://item.taobao.com/item.htm?id=533144883778)|
-
+|**新次元游戏 海王星V2**|英|[奖杯列表](http://d7vg.com/psngame/9488)|[淘宝地址](https://item.taobao.com/item.htm?id=534211035529)|5元/周
+|**欧米伽组曲**|英|[奖杯列表](http://d7vg.com/psngame/8596)[淘宝地址](https://item.taobao.com/item.htm?id=534341168248)|5元/周
 ---
 
 **PS3**
