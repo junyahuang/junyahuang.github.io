@@ -114,6 +114,8 @@ header-img: "img/headline13.jpg"
 |**奇妙人生**|英|[奖杯列表](http://d7vg.com/psngame/7875)|[淘宝地址](https://item.taobao.com/item.htm?id=528841745811)|
 |**杀手: GO**|英|[奖杯列表](http://d7vg.com/psngame/10328)|[淘宝地址](https://item.taobao.com/item.htm?id=531967178122)|
 |**行尸走肉、与狼同行**|英|[奖杯列表](http://d7vg.com/psngame/7242)|[淘宝地址](https://item.taobao.com/item.htm?id=532762452742)|
+|**行尸走肉第二季、行尸走肉米琼恩**|英|[奖杯列表](http://d7vg.com/psngame/7243)|[淘宝地址](https://item.taobao.com/item.htm?id=534974968872)|
+|**回到未来**|英|[奖杯列表](http://d7vg.com/psngame/9452)|[淘宝地址](https://item.taobao.com/item.htm?id=534907470163)|
 |**NUBLA**|英|[奖杯列表](http://d7vg.com/psngame/9990)|[淘宝地址](https://item.taobao.com/item.htm?id=533144883778)|
 
 ---
