@@ -15,7 +15,7 @@ header-img: "img/headline5.jpg"
     </a>
   </li>
 {% endfor %}
-</ul>
+</h4></ul>
 
 <br />
 <br />
