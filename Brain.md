@@ -14,7 +14,7 @@ header-img: "img/headline6.jpg"
     <br /><br /><li class="listing-seperator">{{ y }}<br /><br />
 </li>
   {% endif %}
-  </h3>
+ 
  
   <li class="listing-item">
    <h4> <time datetime="{{ post.date | date:"%m-%d" }}">{{ post.date | date:"%m-%d" }}</time>
@@ -23,6 +23,6 @@ header-img: "img/headline6.jpg"
     </h4>
   </li>
 {% endfor %}
-</ul>
+</ul> </h3>
 
 
