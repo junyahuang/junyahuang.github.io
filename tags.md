@@ -13,7 +13,8 @@ header-img: "img/headline5.jpg"
 <a href="#{{ tag | first | slugize }}">
    {{ tag | first }}
     </a>
-  </li>
+  </li> 
+
 {% endfor %}
 </h4>
 
