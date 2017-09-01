@@ -6,6 +6,7 @@ categories: lease
 tags: 出租
 description: 可租游戏列表
 header-img: "img/headline13.jpg"
+catalog:  true
 
 
 
