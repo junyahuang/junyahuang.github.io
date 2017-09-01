@@ -1,9 +1,17 @@
 ---
 layout: page
 title: "Tags"
-description: "基因"  
+description: "不明觉厉基因库"  
 header-img: "img/headline5.jpg"  
 ---
+
+## 本页使用方法
+
+1. 在下面选一个你喜欢的词
+2. 点击它
+3. 相关的文章会「唰」地一声跳到页面顶端
+4. 马上试试？
+5. 哦，现在什么文章也没有，所以就当我说了个不好笑的笑话
 
 ### 基因列表
 
