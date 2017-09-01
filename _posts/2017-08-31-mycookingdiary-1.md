@@ -6,7 +6,7 @@ categories: Cooking
 tags: [厨房,日记]
 description: 我的厨房观察日记，向着不饿死自己的境界上迈进。
 header-img: "img-post/teriyakichicken.jpg"
-
+catalog:    true
 ---
 
 
