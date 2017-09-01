@@ -9,10 +9,10 @@ header-img: "img/headline5.jpg"
 
 <ul class="tag-cloud">
 {% for tag in site.tags %}
- <li style="font-size: {{ tag | first | size | times: 70 | divided_by: site.tags.size | plus: 70  }}%">
-<h4 href="#{{ tag | first | slugize }}">
+<h4> <li style="font-size: {{ tag | first | size | times: 70 | divided_by: site.tags.size | plus: 70  }}%"></h4>
+<a href="#{{ tag | first | slugize }}">
    {{ tag | first }}
-    </h4>
+    </a>
   </li>
 {% endfor %}
 </ul>
