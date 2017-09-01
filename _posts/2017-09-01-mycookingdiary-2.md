@@ -3,7 +3,7 @@ layout: post
 title: 厨房观察日记&nbsp;&nbsp;&nbsp;&nbsp;肉末茄子
 date: 2017-09-01
 categories: Cooking
-tags: [厨房,日记]
+tags: [厨房]
 description: 我的厨房观察日记，向着不饿死自己的境界上迈进。
 header-img: "img-post/Eggplant-With-Pork.jpg"
 catalog:  true

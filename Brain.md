@@ -2,7 +2,7 @@
 layout: page
 title: "Brain"
 description: "逐渐绽放的脑洞"
-header-img: "img/Headline02.png"
+header-img: "img/headline6.jpg"
 ---
 
 
@@ -11,11 +11,15 @@ header-img: "img/Headline02.png"
   {% capture y %}{{post.date | date:"%Y"}}{% endcapture %}
   {% if year != y %}
     {% assign year = y %}
-    <li class="listing-seperator">{{ y }}</li>
+     <h3><br /><br /><li class="listing-seperator">{{ y }}<br /><br /></h3>
+</li>
   {% endif %}
+ 
   <li class="listing-item">
-    <time datetime="{{ post.date | date:"%Y-%m-%d" }}">{{ post.date | date:"%Y-%m-%d" }}</time>
+   <h4> <time datetime="{{ post.date | date:"%m-%d" }}">{{ post.date | date:"%m-%d" }}</time>
+    &nbsp;&nbsp;&nbsp;&nbsp;
     <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a>
+    </h4>
   </li>
 {% endfor %}
 </ul>

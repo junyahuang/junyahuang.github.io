@@ -3,7 +3,7 @@ layout: post
 title: 关于出租的二三事
 date: 2016-05-01
 categories: lease
-tags: [日记,出租]
+tags: [日记]
 description: 在这一天里，总想说点什么。交易区还有几天就要关闭了。纵然有些不知所措，但实际上心理准备肯定也早已做好了，觉得对这个结果，估计自己要背一半的锅。字太多，又矫情，各位看官悠着点~
 header-img: "img/headline2.jpg"
 
