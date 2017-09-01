@@ -1,11 +1,9 @@
-##说明
 
-此博客 fork 自 [Azeril](http://azeril.me/)，[cnfeat](cnfeat.com)
 
 ##我心足以造鬼
 
 
-我是俊雅，博客：[sinhya.com](sinhya.com),不明觉厉的伪文青理科生
+我是俊雅，博客：[sinhya.com](sinhya.com)
 
 现在是一个 **认真学习的小学生** 。
 
@@ -23,12 +21,4 @@
 - 喜欢当宅男，喜欢游走于宅现边缘
 
 - 喜欢二次元，喜欢于人前展现喜爱
-
-
-
-###声明
- 
- 此博客允许fork，但请标注fork自本博客
-
-
 

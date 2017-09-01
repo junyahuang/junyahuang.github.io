@@ -10,7 +10,7 @@ header-img: "img/headline5.jpg"
     <p><img src="http://7xlzhh.com1.z0.glb.clouddn.com/Read.png"></p>
 </center>
 
-我是俊雅，伪文青伪理科生，
+我是俊雅
 
 现在是一个 **天天向上的小学生，充满矛盾的不明生物** 。
 
@@ -34,23 +34,6 @@ header-img: "img/headline5.jpg"
 - 喜欢二次元，喜欢于人前展现喜爱
 
 
-
-
-
-
-
-
-### 联系
-
-- [博客：sinhya.com](sinhya.com)
-
-- 微信 HuangC9
-
-- [P9](http://d7vg.com/psnid/smaite-hung)
-
-<center>
-    <p><img src="http://7xlzhh.com1.z0.glb.clouddn.com/WeChat.jpg" align="center"></p>
-</center>
 
 
 
