@@ -98,7 +98,7 @@ catalog:  true
 等照烧酱慢慢变得浓稠，鸡皮也越来越深色后，出锅，切块。
 
 
-![](http://7xlzhh.com1.z0.glb.clouddn.com/1.jpg)
+![](http://7xlzhh.com1.z0.glb.clouddn.com/IMG_3273.JPG)
 
 
 
