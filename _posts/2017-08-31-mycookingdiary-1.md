@@ -98,7 +98,8 @@ catalog:  true
 等照烧酱慢慢变得浓稠，鸡皮也越来越深色后，出锅，切块。
 
 
-<img src="http://7xlzhh.com1.z0.glb.clouddn.com/1.jpg"  alt="照烧鸡腿饭" align=center />
+![](http://7xlzhh.com1.z0.glb.clouddn.com/1.jpg)
+
 
 
 
