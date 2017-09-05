@@ -75,7 +75,7 @@ btw，这次买饺子馅，路遇女司机，被撞伤了腿，刨萝卜丝的�
 
 注意一定要把皮给捏实了，不然冷冻之后很容易赛开，因为饺子皮质量并不是很好。
 
-![](http://7xlzhh.com1.z0.glb.clouddn.com/Jiaozi.jpg)
+![](http://7xlzhh.com1.z0.glb.clouddn.com/post-%E6%97%A5%E5%B8%B8%E9%A5%BA%E5%AD%90.jpg)
 
 ### 煮饺子
 
