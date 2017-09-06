@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 厨房观察日记&nbsp;&nbsp;&nbsp;&nbsp;番茄炒蛋
-date: 2017-09-04
+date: 2017-09-05
 categories: Cooking
 tags: [厨房]
 description: 我的厨房观察日记，向着不饿死自己的境界上迈进。
