@@ -1,7 +1,7 @@
 ---
 layout: page
-title: "Brain"
-description: "逐渐绽放的脑洞"
+title: "My Pot"
+description: "我的锅能有这么大"
 header-img: "img/headline6.jpg"
 ---
 

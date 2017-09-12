@@ -1,7 +1,7 @@
 ---
 layout: page
-title: "Tags"
-description: "基因库"  
+title: "My Tags"
+description: "标签好烦"  
 header-img: "img/headline5.jpg"  
 ---
 

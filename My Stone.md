@@ -1,7 +1,7 @@
 ---
 layout: page
-title: "Milestone"
-description: "Less is more "
+title: "My Stone"
+description: "Penny and Penny"
 header-img: "img/headline13.jpg"
 ---
 
