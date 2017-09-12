@@ -1,8 +1,8 @@
 ---
 layout: page
-title: "Myself"
-description: "学苟知本，六经皆我注脚"
-header-img: "img/headline4.jpg"
+title: "My Self"
+description: "行走在三寸方圆之间"
+header-img: "img/headline13.jpg"
 ---
 
 
@@ -10,9 +10,13 @@ header-img: "img/headline4.jpg"
     <p><img src="http://7xlzhh.com1.z0.glb.clouddn.com/Read.png"></p>
 </center>
 
-我是俊雅
+我是俊雅，英俊优雅的黄俊雅。
 
-现在是一个 **天天向上的小学生，充满矛盾的不明生物** 。
+现在是一个 **喜欢瞎折腾的小朋友** 。
+<br/>
+<br/>
+<br/>
+<br/>
 
 
 
@@ -33,6 +37,20 @@ header-img: "img/headline4.jpg"
 
 - 喜欢二次元，喜欢于人前展现喜爱
 
+
+<br/>
+<br/>
+<br/>
+<br/>
+
+## 重要记事
+
+<br/>
+
+-  9-21 2015 创建博客
+-  9-22 2015 设计个人图标
+-  9-23 2015 初步实现博客内容私人化
+-  9-24 2015 全部更换页面图片
 
 
 
