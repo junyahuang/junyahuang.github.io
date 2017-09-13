@@ -58,7 +58,7 @@ catalog:  true
 
 因为有一道腌制，还有蚝油，上海风味炸猪排偏甜，而且不会特别腻。
 
-![](http://7xlzhh.com1.z0.glb.clouddn.com/post-IMG_3319.jpg)
+![](http://7xlzhh.com1.z0.glb.clouddn.com/post-tonkatsu.jpg)
 
 
 ### 改进
