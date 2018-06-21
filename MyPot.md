@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "MyPot"
+title: "My Pot"
 description: "我的锅能有这么大"
 header-img: "img/headline6.jpg"
 ---
