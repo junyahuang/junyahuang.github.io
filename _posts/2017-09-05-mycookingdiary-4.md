@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 厨房观察日记&nbsp;&nbsp;&nbsp;&nbsp;番茄炒蛋
-date: 2017-09-05
+date: 2018-09-05
 categories: Cooking
 tags: [厨房]
 description: 我的厨房观察日记，向着不饿死自己的境界上迈进。
@@ -73,3 +73,4 @@ catalog:  true
 可以试试先炒番茄再下蛋。
 
 我炒的蛋一直很难入味，很像炒蛋和炒番茄，而不是番茄炒蛋。
+
