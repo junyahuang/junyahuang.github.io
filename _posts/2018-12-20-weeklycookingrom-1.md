@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 每周菜谱&nbsp;&nbsp;&nbsp;&nbsp;第一周
+title: 每周菜谱 第一周
 date: 2018-12-20
 categories: weeklycooking
 tags: [厨房][周记]
