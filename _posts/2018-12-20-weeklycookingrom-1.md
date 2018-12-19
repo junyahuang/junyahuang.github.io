@@ -3,7 +3,7 @@ layout: post
 title: 每周菜谱 第一周
 date: 2018-12-20
 categories: weeklycooking
-tags: [厨房][周记]
+tags: [厨房]
 description: 我的厨房观察日记，向着不饿死自己的境界上迈进。
 header-img: "img-post/theme.jpg"
 catalog:  true
