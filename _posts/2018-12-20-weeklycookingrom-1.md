@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Weekly Meal Prep Menu&nbsp;&nbsp;&nbsp;&nbsp;Week 1
+title: Weekly Menu&nbsp;&nbsp;&nbsp;&nbsp;Week 1
 date: 2018-12-20
-categories: mealprepcooking
+categories: mealprep
 tags: [厨房]
 description: 我的厨房观察日记，向着不饿死自己的境界上迈进。
 header-img: "img-post/theme.jpg"
@@ -28,28 +28,27 @@ catalog:  true
 
 <br />
 
-### Ingredient
-
+### Preparation
 <br />
 
 |Ingredient|Account|Price|
 | --- | --- | --- |
-|鸡腿|||
-|茄子|||
-|肉末|||
-|生菜|||
+|鸡腿|一盒||
+|茄子|两根||
+|肉末|一盒||
+|生菜|一只||
 |四季豆|||
-|豆瓣酱|||
-|青椒|||
-|甜玉米|||
-|豆腐|||
-|番茄|||
+|豆瓣酱|一瓶||
+|青椒|一只||
+|甜玉米|一袋||
+|豆腐|一盒||
+|番茄|三只||
 
 
 ### Process
-
+<br />
 
 
 ### Presentation
-
+<br />
 
