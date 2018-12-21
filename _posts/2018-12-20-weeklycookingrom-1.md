@@ -30,7 +30,7 @@ catalog:  true
 
 ### Ingredient
 
-|材料|数量|价格|
+|Ingredient|Account|Price|
 | ------ | ------ | ------ |
 |鸡腿|||
 |茄子|||
