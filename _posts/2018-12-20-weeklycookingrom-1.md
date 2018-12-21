@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Weekly Menu&nbsp;&nbsp;&nbsp;&nbsp;Week 1
+title: Weekly Meal prep Menu&nbsp;&nbsp;&nbsp;&nbsp;Week 1
 date: 2018-12-20
-categories: weeklycooking
+categories: mealprepcooking
 tags: [厨房]
 description: 我的厨房观察日记，向着不饿死自己的境界上迈进。
 header-img: "img-post/theme.jpg"
@@ -14,7 +14,7 @@ catalog:  true
  <br />
     
 
-### This Week's Menu
+### Week's Menu
 <br />
 <br />
 
