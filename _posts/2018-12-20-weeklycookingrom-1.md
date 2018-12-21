@@ -30,6 +30,8 @@ catalog:  true
 
 ### Ingredient
 
+<br />
+
 |Ingredient|Account|Price|
 | ------ | ------ | ------ |
 |鸡腿|||
