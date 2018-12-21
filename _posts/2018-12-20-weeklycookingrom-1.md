@@ -33,7 +33,7 @@ catalog:  true
 <br />
 
 |Ingredient|Account|Price|
-| ------ | ------ | ------ |
+| --- | --- | --- |
 |鸡腿|||
 |茄子|||
 |肉末|||
