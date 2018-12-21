@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 每周菜谱&nbsp;&nbsp;&nbsp;&nbsp;第一周
+title: Weekly Menu&nbsp;&nbsp;&nbsp;&nbsp;Week 1
 date: 2018-12-20
 categories: weeklycooking
 tags: [厨房]
@@ -14,39 +14,40 @@ catalog:  true
  <br />
     
 
-### 本周菜单
+### This Week's Menu
 <br />
 <br />
 
-#### 肉类
+#### Meat
 照烧鸡腿、肉末茄子
-#### 蔬菜
+#### Vegetatble
 蚝油生菜、干煸四季豆、青椒炒玉米
-#### 其他
+#### Other
 红烧豆腐、番茄炒蛋
 
 
 <br />
 
-### 原料选购
+### Ingredient
+
+|材料|数量|价格|
+| ------ | ------ | ------ |
+|鸡腿|||
+|茄子|||
+|肉末|||
+|生菜|||
+|四季豆|||
+|豆瓣酱|||
+|青椒|||
+|甜玉米|||
+|豆腐|||
+|番茄|||
 
 
-鸡腿
-茄子
-肉末
-生菜
-四季豆
-豆瓣酱
-青椒x2
-甜玉米
-豆腐
-番茄x4
-
-
-### 过程日记
+### Process
 
 
 
-### 成果展示
+### Presentation
 
 
