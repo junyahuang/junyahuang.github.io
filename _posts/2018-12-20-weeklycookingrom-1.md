@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Weekly Meal prep Menu&nbsp;&nbsp;&nbsp;&nbsp;Week 1
+title: Weekly Meal Prep Menu&nbsp;&nbsp;&nbsp;&nbsp;Week 1
 date: 2018-12-20
 categories: mealprepcooking
 tags: [厨房]
