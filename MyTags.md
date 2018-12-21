@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "My Tags"
-description: "标签好烦"  
+description: "Tag yours"  
 header-img: "img/headline4.jpg"  
 ---
 
@@ -9,7 +9,7 @@ header-img: "img/headline4.jpg"
 
 
 {% for tag in site.tags %}
-<h4> <li style="font-size: {{ tag | first | size | times: 70 | divided_by: site.tags.size | plus: 70  }}%">
+<h4> <li style="font-size:105">
 <a href="#{{ tag | first | slugize }}">
    {{ tag | first }}
     </a>
