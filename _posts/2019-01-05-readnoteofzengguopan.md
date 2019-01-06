@@ -12,7 +12,7 @@ catalog:  true
  <br />
  <br />
     
-![](img-post/theme.jpg)
+![](/img-post/theme.jpg)
  <br />
 ### 越笨拙越努力 —— 1/5
 
