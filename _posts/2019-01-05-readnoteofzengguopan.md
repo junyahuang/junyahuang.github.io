@@ -5,14 +5,14 @@ date: 2019-1-5
 categories: marginalia
 tags: [Reading Note]
 description: 我的读书笔记
-header-img: “img-post/theme.jpg”
+header-img: "img-post/theme.jpg"
 catalog:  true
 
 ---
  <br />
  <br />
     
-![](img-post/zengguopan_bookcover.jpg)
+![](img-post/theme.jpg)
  <br />
 ### 越笨拙越努力 —— 1/5
 
