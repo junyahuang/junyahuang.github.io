@@ -11,7 +11,7 @@ catalog:true
 ---
 
  <br />
-![@2x](/img-post/zengguopan_bookcover.jpg)
+![@2x](/img-post/zengguofan_bookcover.jpg)
  <br />
 
 ### 越笨拙越努力 —— 1/5
