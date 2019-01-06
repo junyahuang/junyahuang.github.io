@@ -3,14 +3,12 @@ layout: post
 title: 读《曾国藩传》
 date: 2019-01-05
 categories: marginalia
-tags: [Reading Note]
+tags: [读书笔记]
 description: 我的读书笔记，书海涛涛独留一瓢。
-header-img: “img/headline5.jpg”
-catalog:true
-
+header-img: "img/headline5.jpg"
+catalog:  true
 
 ---
-
  <br />
 ![@2x](/img-post/zengguofan_bookcover.jpg)
  <br />
