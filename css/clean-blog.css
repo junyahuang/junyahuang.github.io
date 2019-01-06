@@ -95,6 +95,12 @@ hr.small {
   margin: 0;
   margin-bottom: 5px;
 }
+.post-container img[alt~="@2x"] {
+    zoom: 50%;
+}
+.post-container img[alt~="@3x"] {
+    zoom: 33%;
+}
 .post-container li h1,
 .post-container li h2,
 .post-container li h3,
