@@ -7,7 +7,7 @@ tags: [厨房]
 description: 我的厨房观察日记，向着不饿死自己的境界上迈进。
 header-img: "img-post/Eggplant-With-Pork.jpg"
 catalog:  true
-
+typora-root-url: ../../junyahuang.github.io
 ---
 
  <br />
@@ -20,8 +20,8 @@ catalog:  true
 
 
  <br />
- 
- 
+
+
 好想念老妈的肉末茄子，但是之前一直没机会做，既然上星期在超市已经买了茄子，这回就来一发~
 
 <br />

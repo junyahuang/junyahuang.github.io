@@ -7,19 +7,16 @@ tags: [厨房]
 description: 我的厨房观察日记，向着不饿死自己的境界上迈进。
 header-img: "img-post/Sweet_and_sour_Loin.jpeg"
 catalog:  true
-
+typora-root-url: ../../junyahuang.github.io
 ---
 
- <br />
- <br />
-    
-    
+
 ## 09/15/2017
- <br />
- 
+
+
  买了里脊肉后第一个念头就是糖醋里脊，但是因为一些事情耽搁了一星期，周五有空马上就开做！
- 
- 
+
+
 ### 配料
 
 里脊肉 <br />
@@ -53,10 +50,9 @@ catalog:  true
 
 在里脊肉上淋上之后熬的酸甜汁，然后洒一些白芝麻点缀。
 
-
 ### 成果
 
-![](http://7xlzhh.com1.z0.glb.clouddn.com/post-%E7%B3%96%E9%86%8B%E9%87%8C%E8%84%8A.jpg)
+
 
 这次做的还算满意，味道很足，下饭完美。
 

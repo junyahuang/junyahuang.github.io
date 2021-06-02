@@ -1,5 +1,5 @@
 body {
-  font-family: "Hannotate SC", "Hanzipen SC", "Helvetica Neue", Arial, "Hiragino Sans GB", "STHeiti", "Microsoft YaHei", "WenQuanYi Micro Hei", SimSun, sans-serif;
+  font-family: "Hannotate SC","Helvetica Neue", Arial, "Hiragino Sans GB", "STHeiti", "Microsoft YaHei", "WenQuanYi Micro Hei", SimSun, sans-serif;
   line-height: 1.7;
   font-size: 16px;
   color: #404040;
@@ -14,7 +14,7 @@ h3,
 h4,
 h5,
 h6 {
-  font-family: "Hanzipen SC", "Helvetica Neue", Arial, "Hiragino Sans GB", "STHeiti", "Microsoft YaHei", "WenQuanYi Micro Hei", SimSun, sans-serif;
+  font-family:"Helvetica Neue", Arial, "Hiragino Sans GB", "STHeiti", "Microsoft YaHei", "WenQuanYi Micro Hei", SimSun, sans-serif;
 
   line-height: 1.1;
   font-weight: 800;

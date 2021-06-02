@@ -7,14 +7,15 @@ tags: [厨房]
 description: 我的厨房观察日记，向着不饿死自己的境界上迈进。
 header-img: "img-post/teriyakichicken.jpg"
 catalog:  true
+typora-root-url: ../../junyahuang.github.io
 ---
 
 
 
 <br />
 <br />
- 
-    
+
+
 ## 08/31/2017 
 
 
@@ -97,9 +98,6 @@ catalog:  true
 开到稍微大的火，一边等待收汁，一边用勺子把照烧酱往鸡皮上淋。
 
 等照烧酱慢慢变得浓稠，鸡皮也越来越深色后，出锅，切块。
-
-
-![](http://7xlzhh.com1.z0.glb.clouddn.com/IMG_3273.JPG)
 
 
 

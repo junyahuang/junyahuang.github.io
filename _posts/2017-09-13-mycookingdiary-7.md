@@ -7,13 +7,10 @@ tags: [厨房]
 description: 我的厨房观察日记，向着不饿死自己的境界上迈进。
 header-img: "img-post/Stir_dry_greenbeans.jpg"
 catalog:  true
-
+typora-root-url: ../../junyahuang.github.io
 ---
 
- <br />
- <br />
-    
-    
+
 ## 09/13/2017
  <br />
 干煸豆角是我非常喜欢的一道菜，豆角的青涩全都被炸干，焦香的豆角配上一点点辣味，能下两碗饭！

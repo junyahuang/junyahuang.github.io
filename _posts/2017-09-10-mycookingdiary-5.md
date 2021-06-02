@@ -7,7 +7,7 @@ tags: [厨房]
 description: 我的厨房观察日记，向着不饿死自己的境界上迈进。
 header-img: "img-post/salad_cucumber.jpg"
 catalog:  true
-
+typora-root-url: ../../junyahuang.github.io
 ---
 
  <br />

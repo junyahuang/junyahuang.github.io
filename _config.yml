@@ -64,4 +64,7 @@ bing_verify:
 
 # Links to include in footer navigation
 
+markdown: kramdown
+kramdown:
+  input: GFM
 

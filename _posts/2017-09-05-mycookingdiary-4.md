@@ -7,7 +7,7 @@ tags: [厨房]
 description: 我的厨房观察日记，向着不饿死自己的境界上迈进。
 header-img: "img-post/Tomato-with-egg.jpg"
 catalog:  true
-
+typora-root-url: ../../junyahuang.github.io
 ---
 
  <br />

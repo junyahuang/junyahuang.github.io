@@ -7,7 +7,7 @@ tags: [厨房]
 description: 我的厨房观察日记，向着不饿死自己的境界上迈进。
 header-img: "img-post/fried_pork_chops.jpg"
 catalog:  true
-
+typora-root-url: ../../junyahuang.github.io
 ---
 
  <br />
@@ -25,7 +25,7 @@ catalog:  true
 
 ### 配料
  <br />
- 
+
 **腌制**
 
 里脊肉排 <br />
@@ -45,7 +45,7 @@ catalog:  true
 面包糠
 
  <br />
- 
+
 ### 过程
 
 里脊肉排去筋，用刀背拍两面，在碗里放入少量料酒，淀粉，生抽，蚝油，胡椒粉进行腌制三十分钟，也可以放冰箱里过夜。
@@ -60,7 +60,7 @@ catalog:  true
 
 因为有一道腌制，还有蚝油，上海风味炸猪排偏甜，而且不会特别腻。
 
-![](http://7xlzhh.com1.z0.glb.clouddn.com/post-tonkatsu.jpg)
+
 
 
 ### 改进

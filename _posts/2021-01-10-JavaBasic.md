@@ -8,19 +8,41 @@ tags: [课堂笔记]
 description: 网课网课网课
 header-img: "img/headline7.jpg"
 catalog:  true
+typora-root-url: ../../junyahuang.github.io
 ---
-# Java基础笔记 
+
+
+
+
+
+# 基础语法
+
+
+
+## print、prinf、println
+
+- `print`是一般的输出标准，但是不换行
+- `println`会换行
+- `printf`继承了C语言的`printf`一些特性，可以进行格式化输出
+
+
+
 
 #  数组
-<br>
+
+
 
 ##  数组定义
+
 ```
 int[] a = new int[100];
 int[] scores = {87,53,77,42,45};
 ```
 
+
+
 ##  数组长度
+
 ```
 int[] a = new int[100];
 a.length
@@ -28,6 +50,8 @@ for(i=0;i<a.length;i++)
 ```
 
 - 在创建数组时，java会自动把所有的元素都填为0，每个元素都有0值
+
+
 
 ##  数组变量
 
@@ -54,10 +78,12 @@ int[] b={1,2,3};
 
 如果想比较两个数组的数据是否相等，需要利用flag，用循环进行依次比较
 ```
-<br>
+
+
+
 
 # For循环
-<br>
+
 
 
 ## for-each循环
@@ -67,6 +93,8 @@ int[] b={1,2,3};
 - 针对需要遍历的数组的场合，比较方便，缺点是没有数组的位置，也不能改变数组
 
   - 需要输出数组的时候比较方便
+
+
 
 ## continue MAIN_LOOP
 
@@ -93,16 +121,23 @@ System.out.println();
 
 ```
 
+
+
 ## 二维数组
+
 ```
 int[][] a = new int[SIZE][SIZE];
 ```
-<br>
+
+
+
 
 # 字符
-<br>
+
+
 
 ## 字符类型
+
 - 单个的字符是一种特殊的类型：`char`
 	- Java使用Unicode来表示字符，可以表达包括汉字在内的多种文字
 	- `char a = ‘\u0041’`，或者`65`，都表示`A`
@@ -112,14 +147,19 @@ int[][] a = new int[SIZE][SIZE];
 	- 汉字字符也是可以做运算的
 	- 字符之间可以直接做大小比较，和C语言致
 
-## 大小写字符的换算
-```
-char d = (char)(c + 'a' - 'A');
 
-c加上‘a'和'A'之间的距离，c就能转换成C。
+
+## 大小写字符的换算
+
+```
+char d = (char)('C' + 'a' - 'A');
+
+C加上‘a'和'A'之间的距离，C就能转换成c。
 
 注意计算之后c就变成了一个整型数，所以需要用char强制转换一下。
 ```
+
+
 
 ## 逃逸字符
 
@@ -132,6 +172,8 @@ c加上‘a'和'A'之间的距离，c就能转换成C。
 
 - 一般来说，eclipse的Console不会理会`\b`的输出
 - `\r` 和 `\n`，在计算机中，回车和换行是两个不同的操作
+
+
 
 ## 包裹类型
 
@@ -150,21 +192,28 @@ c加上‘a'和'A'之间的距离，c就能转换成C。
 		- `Integer.MAX_VALUE`
 		- `Integer.MIN_VALUE`
 
+
+
 ## 运算符
+
 当需要让一个类或对象做事情的时候，用`.运算符`
+
+
 
 ## Character运算
 
 代码|功能
 :-|:-
-`isDigit(char ch)`|判断字符是不是数字
-`isLetter(char ch)`|判断字符是不是字幕
-`isLetterOrDigit(char ch)`|判断字符是不是字幕或数字
-`isLowerCase(char ch)`|判断字符是不是小写字母
-`isUpperCase(char ch)`|判断字符是不是大写字母
-`isWhitespace(char ch)`|判断字符是不是一种空格
-`toLowerCase(char ch)`|把字符转换成小写
-`toUpperCase(char ch)`|把字符转换成大写
+`Character.isDigit(char ch)`|判断字符是不是数字
+`Character.isLetter(char ch)`|判断字符是不是字幕
+`Character.isLetterOrDigit(char ch)`|判断字符是不是字幕或数字
+`Character.isLowerCase(char ch)`|判断字符是不是小写字母
+`Character.isUpperCase(char ch)`|判断字符是不是大写字母
+`Character.isWhitespace(char ch)`|判断字符是不是一种空格
+`Character.toLowerCase(char ch)`|把字符转换成小写
+`Character.toUpperCase(char ch)`|把字符转换成大写
+
+
 
 ## 字符串变量
 
@@ -186,6 +235,8 @@ String s = "hello";
 
 - 编译器帮你创建一个`String`类交给`s`来管理
 
+
+
 ## 字符串连接
 
 - 用加号`+`可以连接两个字符串
@@ -196,6 +247,8 @@ String s = "hello";
 	- `"age"+1+2` → `"age12"`
 		- 运算从左到右进行，所以如果`1+2`在`s`右边，会先计算`s+1`，结果是`s1`，再计算`s1+2`，结果是`s12`
 		- 想要`s3`的话，只能用括号把`1+2`括起来，即`s+(1+2)`
+
+
 
 ## 字符串常用方法
 
@@ -217,6 +270,7 @@ String s = "hello";
 - `s.substring(b,e)`为左闭右开，不会取到第`e`个字符，只会取到`e-1`
 
 
+
 ## 寻找字符串
 
 代码|作用(-1表示不存在)
@@ -227,6 +281,8 @@ String s = "hello";
 `s.lastIndexOf(c)`|从右边开始找
 `s.lastIndexOf(c,n)`|同上
 `s.lastIndexOf(t)`|同上
+
+
 
 ## 不可变的String
 
@@ -241,16 +297,20 @@ System.out.println(s1);
 String s2 = s1.toUpperCase();
 ```
 
+
+
 ## swtich-case中使用字符串
 
 1.7及以上版本的Java可以在`switch-case`中使用字符串来判断
 
 ---
-<br/>
+
+
+
 
 # 函数
 
-<br/>
+
 
 ## Math类函数
 
@@ -263,11 +323,15 @@ Math.pow(x,n)|输出浮点数，x、n可为浮点数
 
 - `Math.random()*100`是0~100的随机数
 
+
+
 ## 定义函数
 
 - 在同一个`public class Main`下
 - 大体和C语言相同，前缀为`public static`,是必须的
 - 注意判断型的函数为`boolean`
+
+
 
 ## 类型不匹配
 
@@ -275,12 +339,16 @@ Math.pow(x,n)|输出浮点数，x、n可为浮点数
 	- char -> int -> double
 	- 宽的可以接受窄的，反过来不可以，如果想传值，必须强制转换
 
+
+
 ## 传值和传址
 
 - 和C语言类似，Java语言在调用函数时，永远只能传值给函数
   - 每个函数有自己的变量空间，参数也位于这个独立的空间中，和其他函数没有关系
   - 过去，对于函数参数表中的参数，叫做”形式参数“，调用函数时给的值，叫做”实际参数，现在这种方法意见不建议使用了
   - 我们认为，它们是参数和值的关系
+
+
 
 ## 生存期和作用域
 
